@@ -6,13 +6,13 @@ GO;
 
 CREATE TABLE time_dim (
 	[time_id] [uniqueidentifier] NOT NULL,
-	[_date] [varchar](50)  NULL,
+	[date] [varchar](50)  NULL,
     [dayofweek] int,
     [dayofmonth] int,
     [weekofyear] int,
-	[_quarter] int,
-	[_month] int,
-	[_year] int
+	[quarter] int,
+	[month] int,
+	[year] int
 )
 GO;
 
