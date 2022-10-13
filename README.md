@@ -98,5 +98,8 @@ The scripts for the facts and dimension tables can be found in the `Transform_st
 #### Create Station Dimension Table 
 ![image](https://user-images.githubusercontent.com/61830624/195591163-172b453e-629d-4580-a472-b5d4b168b7f6.png)
 
+#### Create riders dimension table
+![image](https://user-images.githubusercontent.com/61830624/195592379-c5c33367-e757-4ab8-b985-7e273e3b3e08.png)
+
 
   
