@@ -95,7 +95,8 @@ Once in Blob storage, the files will be shown in the data lake node in the Synap
 We will write SQL scripts to transform the data from the staging tables to the final star schema we designed.
 The scripts for the facts and dimension tables can be found in the `Transform_star_schema` folder
 
-
+#### Create Station Dimension Table 
+![image](https://user-images.githubusercontent.com/61830624/195591163-172b453e-629d-4580-a472-b5d4b168b7f6.png)
 
 
   
