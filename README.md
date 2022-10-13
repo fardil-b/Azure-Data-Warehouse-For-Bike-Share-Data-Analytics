@@ -92,7 +92,8 @@ Once in Blob storage, the files will be shown in the data lake node in the Synap
  ![image](https://user-images.githubusercontent.com/61830624/195581830-d0b30059-3bf8-44f9-9ab4-7027df859e74.png)
  
  # Task 6: TRANSFORM the data to the star schema
-
+We will write SQL scripts to transform the data from the staging tables to the final star schema we designed.
+The scripts for the facts and dimension tables can be found in the `Transform_star_schema` folder
 
 
 
