@@ -101,5 +101,7 @@ The scripts for the facts and dimension tables can be found in the `Transform_st
 #### Create riders dimension table
 ![image](https://user-images.githubusercontent.com/61830624/195592379-c5c33367-e757-4ab8-b985-7e273e3b3e08.png)
 
+#### We have all the dimension and fact table in our sql databse which we can now use to answer our business questions
+![image](https://user-images.githubusercontent.com/61830624/195598047-54b7f1d6-29c6-4049-8f97-74ee8a09c79f.png)
 
   
