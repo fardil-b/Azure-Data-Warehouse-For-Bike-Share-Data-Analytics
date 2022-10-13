@@ -34,7 +34,7 @@ The business outcomes we are designing for are as follows:
 
 # Task 2: Design a star schema
 Based on the given set of business requirements the following star schema was designed
-![image](https://user-images.githubusercontent.com/61830624/195540920-fb4a99e0-7a3b-4dd6-8769-bc2b82156b3c.png)
+![image](https://user-images.githubusercontent.com/61830624/195600538-061f1d5c-2a7a-48e1-a5c4-04241fd9eb6a.png)
 
 # Task 3: Create the data in PostgreSQL
 To prepare the environment for this project, we first must create the data in PostgreSQL. This will simulate the production environment where the data is being used in the OLTP system. This can be done using the Python script `ProjectDataToPostgres.py`
